@@ -20,7 +20,7 @@ This project helped me sharpen my front-end development skills by focusing on:
 
 ## 💻 Live Demo
 
-🚀 [Check out the live project here!](https://mostafawaelshoeip.github.io/SEF-Project-2/)
+🚀 [Check out the live project here!](https://mostafawaelshoeip.github.io/SEF-Project-3-AutoDrive/)
 
 ---
 
